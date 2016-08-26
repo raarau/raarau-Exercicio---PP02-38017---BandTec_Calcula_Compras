@@ -1,0 +1,7 @@
+F:\Celia_Ex\Moodle\Ex2\PP02 38017\PP02 38017\bin\Debug\PP02 38017.exe.config
+G:\Celia_Ex\Moodle\Ex2\PP02 38017\PP02 38017\bin\Debug\PP02 38017.exe.config
+G:\Celia_Ex\Moodle\Ex2\PP02 38017\PP02 38017\bin\Debug\PP02 38017.exe
+G:\Celia_Ex\Moodle\Ex2\PP02 38017\PP02 38017\bin\Debug\PP02 38017.pdb
+G:\Celia_Ex\Moodle\Ex2\PP02 38017\PP02 38017\obj\Debug\PP02 38017.csprojResolveAssemblyReference.cache
+G:\Celia_Ex\Moodle\Ex2\PP02 38017\PP02 38017\obj\Debug\PP02 38017.exe
+G:\Celia_Ex\Moodle\Ex2\PP02 38017\PP02 38017\obj\Debug\PP02 38017.pdb
